@@ -1,0 +1,9 @@
+
+#serv .box{
+    flex-direction: column;
+
+}
+
+#cli{
+    overflow: hidden;
+}
